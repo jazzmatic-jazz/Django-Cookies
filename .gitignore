@@ -1,0 +1,5 @@
+env/
+cookies/.env
+cookies/__pycache__
+student/__pycache__
+db.sqlite3
